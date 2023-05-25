@@ -1,1 +1,1 @@
-# Stock-Prediction-With-Linear-Regression
+# Stock-Forecasting-With-Linear-Regression
